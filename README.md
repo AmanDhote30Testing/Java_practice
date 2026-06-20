@@ -1,4 +1,4 @@
-# Java Practice
+# Basic Java Programmes
 
 Core Java string exercises. Written while brushing up on Java before building automation frameworks.
 
